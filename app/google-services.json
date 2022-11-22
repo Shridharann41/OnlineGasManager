@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212413636292",
+    "firebase_url": "https://online-gas-manager.firebaseio.com",
+    "project_id": "online-gas-manager",
+    "storage_bucket": "online-gas-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212413636292:android:a88a0b2daba205808eb391",
+        "android_client_info": {
+          "package_name": "com.example.onlinegasmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212413636292-f0q4lfl1orn6ab476aes7ceuq2c655cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72KXlrzXFq8in8VPqULQR-w3r4nh56B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212413636292-f0q4lfl1orn6ab476aes7ceuq2c655cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
